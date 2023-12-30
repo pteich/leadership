@@ -1,4 +1,4 @@
-module github.com/xdc0209/leadership
+module github.com/pteich/leadership
 
 go 1.20
 
